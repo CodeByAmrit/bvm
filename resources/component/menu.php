@@ -37,11 +37,10 @@
             <li><a href="#">Blog</a></li>
             <li><a href="#">Contact</a></li>
         </ul>
-        <a href="#">
-            <div class="login-btn">
+        <div class="login-btn" onclick="loginOpen()">
                 Admin Login
-            </div>
-        </a>
+        </div>
+        
     </div>
 </div>
 

@@ -7,6 +7,7 @@
     <title>Gallery - BVM</title>
     <link rel="stylesheet" href="/resources/css/gallery.css">
     <link rel="stylesheet" href="/resources/css/styles.css">
+    <link rel="stylesheet" href="/resources/css/login.css">
     <link rel="icon" type="image/x-icon" href="images/schoolLogo2.ico">
 </head>
 
@@ -15,6 +16,8 @@
     <?php include './resources/component/top.php'; ?>
     <!-- php import menu heading  -->
     <?php include './resources/component/menu.php'; ?>
+    <!-- php import login heading  -->
+    <?php include './resources/component/login.php'; ?>
     <div class="container_gallery">
         <div class="album">
             <div class="responsive-container-block bg">

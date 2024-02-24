@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/resources/css/styles.css">
     <link rel="icon" type="image/x-icon" href="images/schoolLogo2.ico">
     <link rel="stylesheet" href="/resources/css/gallery.css">
+    <link rel="stylesheet"  href="/resources/css/login.css">
 </head>
 
 <body>
@@ -15,6 +16,8 @@
     <?php include './resources/component/top.php'; ?>
     <!-- php import menu heading  -->
     <?php include './resources/component/menu.php'; ?>
+    <!-- php import login heading  -->
+    <?php include './resources/component/login.php'; ?>
 
     <div class="slideshow-container">
         <div class="mySlides fade">
