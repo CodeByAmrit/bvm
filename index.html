@@ -1,118 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bajrang Vidya Mandir</title>
-    <link rel="stylesheet" href="/resources/css/styles.css">
-    <link rel="icon" type="image/x-icon" href="pic/schoolLogo2.ico">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mobile Menu Button</title>
+<link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
-    <div class="top-heading">
-        <div class="top-left">
-            <img src="pic/location.svg" alt="logo" width="12px">
-            <p class="top-heading-text">Industrial Area Sonipat Haryana</p>
-            <img src="pic/phone.svg" alt="phone" width="12px">
-            <p class="top-heading-text">+91 0130 221 2447</p>
-        </div>
-        <div class="top-right">
-            <img src="pic/github-light.png" alt="logo" width="16px">
-            <img src="pic/facebook.png" alt="logo" width="16px">
-        </div>
-    </div>
-    <div class="menu">
-        <div id="menu-left">
-            <img src="pic/Logo.png" alt="logo" height="58px">
-            <p style="color: #0f013f;">BAJRANG VIDYA MANDIR</p>
-        </div>
-        <div id="menu-right">
+<header>
+    <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+    <nav class="menu">
+        <!-- <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul> -->
+        <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+        <nav class="menuBtn">
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Class</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="#">Services</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
-            <a href="#">
-                <div class="login-btn">
-                    Admin Login
-                </div>
-            </a>
-        </div>
-    </div>
-    <div class="slideshow-container">
-        <div class="mySlides fade">
-            <img src="images/grukul.png" style="width:100%">
-        </div>
-        <div class="mySlides fade">
-            <img src="images/school.png" style="width:100%">
-        </div>
-        <div class="mySlides fade">
-            <img src="images/grukul.png" style="width:100%">
-        </div>
-        <div class="typewriter-effect">
-            <div style="font-size: 60px; color:#0f013f;">Quality <br> Learning</div>
-
-            <div class="text" id="typewriter-text"></div>
-            <a href="#">
-                <div class="login-btn register-btn">
-                    Admission
-                </div>
-            </a>
-        </div>
-        <img class="wave" src="pic/wave.svg" alt="wave" width="100%">
-    </div>
-
-    <div class="center-content">
-        <p>Welcome to our <span style="color: #D725B0; font-weight: bold;">Bajrang Vidya Mandir</span></p>
-        <p>Education for Excellence, Inspiring Tomorrow's Leaders. Where Learning Never Ends, and Dreams Take Flight.
-            <br>Every Child, Every Chance, Every Day</p>
-        <div class="cont-group">
-            <div class="content-left">
-                <div class="gp">
-                    <div class="circle" style="background-color: #1F97D4; "> 
-                        <img src="images/leaf.png" alt="leaf" width="30px">
-                    </div>
-                    <p style=" color:#1F97D4;">Inter School Sports <br> <span style="font-size: 12px; font-weight:normal; color:black;">The words you use in your written communica speak volumes.</span></p>
-                </div>
-                <div class="gp">
-                    <div class="circle" style="background-color: #FBCE0F; "> 
-                        <img src="images/camera.png" alt="camera" width="30px">
-                    </div>
-                    <p style=" color:#FBCE0F;">Friendly Environment <br> <span style="font-size: 12px; font-weight:normal; color:black;">The words you use in your written communica speak volumes.</span></p>
-                </div>
-                <div class="gp">
-                    <div class="circle" style="background-color: #12D9DF; "> 
-                        <img src="images/ball.png" alt="test" width="30px">
-                    </div>
-                    <p style=" color:#12D9DF;">Multimedia Class <br> <span style="font-size: 12px; font-weight:normal; color:black;">The words you use in your written communica speak volumes.</span></p>
-                </div>
-            </div>
-            <div class="content-right">
-                <img src="images/boy.avif" alt="boy" width="300px">
-            </div>
-        </div>
-        <br>
-        <br>
-        <div class="login-btn direct" >
-            Get Direction
-        </div>
-        <img class="wave" style="bottom: -50px;" src="pic/wave-bottom.svg" alt="wave" width="100%">
-    </div>
-
-    <div class="bottom-content">
-        <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Classes We Offer</p>
-    </div>
-
-    <!-- bottom  -->
-    <div class="top-heading">
-        <p style="text-align: center; color:white;">Copyright© 2024 All rights Reserved</p>
-        <p style="text-align: left; color:white; padding-right: 100px;">CodeByAmrit</p>
-    </div>
-
-    <script src="resources/js/script.js"></script>
+        </nav>
+    </nav>
+</header>
+<div class="content">
+    <!-- Your content here -->
+</div>
+<script src="script.js"></script>
 </body>
-
 </html>

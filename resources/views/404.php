@@ -6,6 +6,7 @@
     <link rel="icon" type="image/x-icon" href="/pic/logo1.ico" />
     <title>LearnHTML</title>
     <link rel="stylesheet" href="/resources/css/styleHTML.css" />
+    <link rel="stylesheet" href="/resources/css/styles.css" />
     <style>
         *{
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
