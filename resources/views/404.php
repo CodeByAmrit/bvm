@@ -17,7 +17,7 @@
         }
         .group1{
             width: 100vw;
-            margin-top: 50px;
+            
             height: 92vh;
             display: flex;
             justify-content: center;

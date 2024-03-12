@@ -33,7 +33,7 @@
         <ul>
             <li><a href="/">Home</a></li>
             <li><a href="#">Class</a></li>
-            <li><a href="#">About</a></li>
+            <li><a href="/aboutus">About</a></li>
             <li><a href="#">Blog</a></li>
             <li><a href="#">Contact</a></li>
         </ul>

@@ -3,7 +3,7 @@
         <div class="log-top">
             <p>Login</p>
         </div>
-        <form action="#" method="post" class="input1">
+        <form action="/databases/checkLogin.php" method="post" class="input1">
             <label for="username">Username</label>
             <input type="text" name="name">
             <label for="password">Password</label>
