@@ -509,7 +509,7 @@ a {
 @media only screen and (max-width: 768px) {
 
   .login-btn {
-    margin-top: -200px;
+    margin-top: 200px;
   }
 
   #menu-left,
@@ -587,4 +587,96 @@ a {
   .login-btn{
     z-index: 200;
   }
+}
+
+.classBox{
+  width: 100vw;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+  overflow: hidden;
+  /* flex-direction: column; */
+
+}
+.slideTop{
+  
+  height: 150px;
+  width: 100%;
+  overflow: hidden;
+}
+.slideCenter{
+  padding: 0 20px;
+  height: 70px;
+
+}
+.slideCenter p:nth-child(1){
+  font-size: 20px; 
+  margin:10px 0px 0px 0px; 
+  color: #e74c3c; 
+  font-weight: bold;
+}
+.slideBottom{
+  padding: 20px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.slideBottom div{
+  width: 100%;
+}
+.slideBottom p {
+  margin: 0;
+  padding: 0;
+  color:gray;
+}
+.slideBottom p:nth-child(1) {
+  color:#D725B0;
+  font-weight: bold;
+}
+.container {
+  position: relative;
+  width: 80%;
+  overflow: hidden;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  flex: 0 0 200px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 20px;
+  background-color: white;
+  overflow: hidden;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+button:hover{
+  scale: 1.2;
+}
+
+#prevBtn {
+  left: 10px;
+}
+
+#nextBtn {
+  right: 10px;
 }

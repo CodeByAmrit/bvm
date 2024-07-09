@@ -33,7 +33,7 @@
             <div class="landing-heading">Quality <br> Learning</div>
 
             <div class="text" id="typewriter-text"></div>
-            <a href="#">
+            <a href="register">
                 <div class="login-btn register-btn">
                     Admission  2024-25
                 </div>
@@ -90,6 +90,207 @@
 
     <div class="bottom-content">
         <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Classes We Offer</p>
+    </div>
+    <div class="classBox">
+
+        <div class="container">
+            <div class="slider">
+
+            <!-- Pre Nursery -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >Pre Nursery</p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+        
+            <!-- KG -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >KG</p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>5-7</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- First -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >1<sup>st</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>7-9</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- Second -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >2<sup>nd</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- Third -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >3<sup>rd</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- Fourth -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >4<sup>th</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- Fifth -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >5<sup>th</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- 6th-->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >6<sup>th</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            <!-- 7th -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >7<sup>th</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+
+            <!-- 8th -->
+            <div class="slide" >
+                <div class="slideTop">
+                    <img src="images/child.jpg" alt="child" width="100%">
+                </div>
+                <div class="slideCenter">
+                    <p >8<sup>th</sup></p>
+                    <p style="font-size: 13px; margin:0px">The words you can use in your written communicate speak volume. </p>
+                </div>
+                <div class="slideBottom">
+                    <div >
+                        <p>3-5</p>
+                        <p>Age Group</p>
+                    </div>
+                    <a href="#"><div style="text-align: right; color: #0099ff; font-weight: bold;" >Syllabus</div></a>
+                    
+                </div>
+            </div>
+            
+            </div>
+            <button id="prevBtn" style="margin-left: -15px;"><img src="/images/left-arrow.png" alt="left" width="20px"></button>
+            <button id="nextBtn" style="margin-right: -15px;"><img src="/images/right-arrow.png" alt="right" width="20px"></button>
+        </div>
     </div>
 
     <!-- bottom  -->

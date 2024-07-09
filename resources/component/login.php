@@ -3,9 +3,9 @@
         <div class="log-top">
             <p>Login</p>
         </div>
-        <form action="/databases/checkLogin.php" method="post" class="input1">
+        <form action="/databases/checkLogin.php" method="post" class="input1" autocomplete="on">
             <label for="username">Username</label>
-            <input type="text" name="name">
+            <input type="text" name="name" autocomplete="email">
             <label for="password">Password</label>
             <input type="password" name="password">
             <p><a href="#">Forgot credentials?</a></p>

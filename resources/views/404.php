@@ -54,7 +54,7 @@
 </head>
 <body>
      <!-- Load Menu from component -->
-     <?php require 'resources/component/menu.php'; ?>
+     <?php include 'resources/component/menu.php'; ?>
 
 
     <div class="group1">
